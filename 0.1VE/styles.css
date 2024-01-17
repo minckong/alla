@@ -1,0 +1,186 @@
+
+.skatjd{
+    position: absolute;
+    top: 590px;
+    left: 1565px;
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.flcl{
+    position: absolute;
+    top: 590px;
+    left: 1445px;
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.djflsdl{
+    position: absolute;
+    top: 590px;
+    left: 1325px;
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.duwk{
+    position: absolute;
+    top: 590px;
+    left: 1205px;
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.rjatorckd{
+    width: 300px;
+    height: 25px;
+    border-radius: 10px 10px;
+    position: absolute;
+    top: 40px;
+    right: 150px;
+    font-family:'Noto Sans KR', sans-serif;
+}
+
+.zheltkwls{
+    width: 80px;
+    border-radius: 50px 50px;
+    position: absolute;
+    top: 500px;
+    left: 1420px;
+}
+
+.rlawjdwo{
+    width: 40px;
+    position: absolute;
+    right: 100px;
+    top: 33px;
+}
+
+.dkdl{
+    width: 80px;
+    border-radius: 50px 50px;
+    position: absolute;
+    top: 500px;
+    left: 1300px;
+}
+
+.dutjd{
+    width: 80px;
+    border-radius: 50px 50px;
+    position: absolute;
+    top: 500px;
+    left: 1180px;
+}
+
+.skawk{
+    width: 80px;
+    border-radius: 50px 50px;
+    position: absolute;
+    top: 500px;
+    left: 1540px;
+}
+
+
+body{
+    background-color: #FAF6F0;
+}
+
+.cjdcns{
+    font-size: 20px;
+    color: white;
+    position: absolute;
+    left: 250px;
+    top: 38px;
+}
+
+.cody{
+    color: white;
+    position: absolute;
+    left: 330px;
+}
+
+.kids{
+    color: white;
+    position: absolute;
+    left: 390px;
+}
+
+.man{
+    color: white;
+    position: absolute;
+    left: 450px;
+}
+
+.waman{
+    color: white;
+    position: absolute;
+    left: 510px;
+}
+
+.dhkrn{
+    background-color: #000000;
+}
+
+.dkqhzkeh{
+    width: 300px;
+    height: 120px;
+    line-height: 120px;
+    background-color: #FAF6F0;
+    border-radius: 50px 10px 50px;
+    color: #F4EAE0;
+    font-size: 80px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.alsl{
+    color: #000000;
+}
+
+section{
+    background-color: #000000;
+    height: 800px;
+}
+
+body{
+    height: 6000px;
+    margin: 0;
+}
+
+.skawhdgus{
+    width: 630px;
+    position: absolute;
+    right: 180px;
+    top: 434px;
+}
+
+.rjator{
+    background-image: url(cool-background\ \(1\).png)
+}
+
+.dkahsem{
+    font-size: 6em;
+    width: 260px;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    top: 55 0px;
+    left: 15vw;
+    animation: gksrkdals 3s;
+}
+
+@keyframes gksrkdals{
+    from{
+        left: -15vw;
+        opacity: 0;
+    }
+    to{
+        left: 15vw;
+        opacity: 1;
+        }
+    }
